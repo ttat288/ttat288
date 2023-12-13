@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tran Tham Anh Toan (Bin)</h1>
 <h3 align="center">A passionate backend developer from Viet Nam</h3>
-<p align="left"> <img src="https://github.com/ttat288/ttat288/blob/main/a6uodmc237391.gif" alt="ttat288" /> </p>
+<p align="right"> <img src="https://github.com/ttat288/ttat288/blob/main/a6uodmc237391.gif" alt="ttat288" style="width: 200px;" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ttat288&label=Profile%20views&color=0e75b6&style=flat" alt="ttat288" /> </p>
 
