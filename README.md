@@ -1,29 +1,62 @@
-<h1 align="center">Hi 👋, I'm Tran Tham Anh Toan (Bin)</h1>
-<h3 align="center">A passionate backend developer from Viet Nam</h3>
+<h1 align="center">Hi 👋, I'm Tran Tham Anh Toan (Travis)</h1>
+<h3 align="center">A passionate Backend Developer from Viet Nam 🇻🇳</h3>
 
-<img align="right" width="600" src="https://github.com/ttat288/ttat288/blob/main/a6uodmc237391.gif" alt="ttat288" />
+<img align="right" width="400" src="https://raw.githubusercontent.com/ttat288/ttat288/main/a6uodmc237391.gif" alt="ttat288" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ttat288&label=Profile%20views&color=0e75b6&style=flat" alt="ttat288" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **ASP.NET core API**
-
-- 👨‍💻 All of my projects are available at [https://github.com/ttat288](https://github.com/ttat288)
-
-- 💬 Ask me about **C#**
-
-- 📫 How to reach me **tranthamanhtoan288@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ttat288&label=Profile%20views&color=0e75b6&style=flat" alt="ttat288" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+---
 
-<p><img width="375" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ttat288&show_icons=true&locale=en&layout=compact" alt="ttat288" /></p>
+- 🌱 I’m currently learning **ASP.NET Core Web API & System Design**
+- 👨‍💻 All of my projects are available at:  
+  👉 https://github.com/ttat288
+- 💬 Ask me about **C#, ASP.NET Core API, .NET Architecture, React/Next.js, RESTful API Design, MongoDB, MySQL, CI/CD, AWS & Cloud Deployment**
+- 📫 Contact: **tranthamanhtoan288@gmail.com**
 
-<p>&nbsp;<img width="420" align="center" src="https://github-readme-stats.vercel.app/api?username=ttat288&show_icons=true&locale=en" alt="ttat288" /></p>
+---
 
-<p><img width="412" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ttat288&" alt="ttat288" /></p>
+<h3 align="left">🚀 Languages and Tools:</h3>
+
+<p align="left">
+<a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://dotnet.microsoft.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://react.dev/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://nextjs.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.mongodb.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.microsoft.com/sql-server" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.docker.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
+</a>
+</p>
+
+---
+
+<h3 align="left">📊 GitHub Stats:</h3>
+
+<p>
+<img width="60%" src="https://streak-stats.demolab.com?user=ttat288&theme=tokyonight&hide_border=true" />
+</p>
